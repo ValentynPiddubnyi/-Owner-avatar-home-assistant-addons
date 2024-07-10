@@ -1,1 +1,1 @@
-# -Owner-avatar-home-assistant-addons
+# home-assistant-addons
