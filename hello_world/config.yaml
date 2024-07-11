@@ -1,5 +1,5 @@
 name: "Hello world"
-description: "My first real add-on!"
+description: "My first real add-on v2!"
 version: "1.1.0"
 slug: "hello_world"
 init: false
